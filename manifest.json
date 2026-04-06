@@ -1,0 +1,22 @@
+{
+  "name": "Test Oposición A1 — Diputación de Málaga",
+  "short_name": "Test A1",
+  "description": "Preguntas tipo test para la OEP 2020-23 Grupo A1",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f0f13",
+  "theme_color": "#e8c87a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
